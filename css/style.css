@@ -17,6 +17,8 @@ body {
 	font-family: 'Raleway', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+
+	background-color: #C9E3AC;
 }
 
 h1,
@@ -36,6 +38,7 @@ h1 {
 
 h2 {
 	font-size: 36px;
+	font-family: 'Permanent Marker', cursive;
 }
 
 h3 {
