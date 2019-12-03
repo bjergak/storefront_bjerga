@@ -18,7 +18,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 
-	background-color: #B3C99A;
+	background-color: #8C9E78;
 }
 
 h1,
@@ -101,7 +101,7 @@ ul:hover{
 }
 
 .section-title h2 {
-	font-size: 30px;
+	font-size: 40px;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -158,12 +158,13 @@ ul:hover{
 	min-width: 138px;
 	font-weight: 500;
 	border: none;
-	background: #414141;
+	background: rgba(11,122,117,.5);
 	cursor: pointer;
 	line-height: normal;
 	-webkit-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
+	border-radius: 10px;
 }
 
 .site-btn:hover {
@@ -180,7 +181,7 @@ ul:hover{
 .site-btn.btn-line:hover {
 	background: #b09d81;
 	border: 2px solid #b09d81;
-	color: #fff;
+	color: red;
 }
 
 /* Preloder */
@@ -423,7 +424,7 @@ ul:hover{
 .hs-item .hs-content .price {
 	font-size: 18px;
 	font-weight: 700;
-	color: #fff;
+	color: #0B7A75;
 	text-transform: uppercase;
 	position: relative;
 	top: 50px;
@@ -433,7 +434,7 @@ ul:hover{
 .hs-item .hs-content h2 {
 	font-size: 110px;
 	text-transform: uppercase;
-	color: red;
+	color: #C9E3AC;
 	font-weight: 400;
 	line-height: 0.9;
 	margin-bottom: 35px;
@@ -443,7 +444,7 @@ ul:hover{
 }
 
 .hs-item .hs-content h2 span {
-	color: #414141;
+	color: #DE9E36;
 }
 
 .hs-item .hs-content .site-btn {
@@ -558,16 +559,17 @@ ul:hover{
 .scrollbar {
 	margin: 80px auto 0;
 	width: 100%;
-	height: 7px;
+	height: 15px;
 	line-height: 0;
-	background: #ececec;
+	background: #31393C;
 	overflow: hidden;
+	border-radius: 10px;
 }
 
 .scrollbar .handle {
 	width: 100px;
 	height: 100%;
-	background: #fff;
+	background: #DE9E36;
 	cursor: pointer;
 }
 
@@ -577,8 +579,9 @@ ul:hover{
 	left: 0;
 	width: 100%;
 	height: 7px;
-	background: #b09d81;
-	border-radius: 30px;
+	background: #C2C1C2;
+	border-radius: .5px;
+
 }
 
 .intro-slider {
@@ -797,7 +800,7 @@ ul:hover{
 ---------------------*/
 
 .blog-section {
-	background: #f2f4f9;
+	background: #C9E3AC;
 }
 
 .blog-section .bgs-title {
@@ -919,7 +922,7 @@ ul:hover{
 }
 
 .footer-section .copyright {
-	color: #505050;
+	color: #DE9E36;
 	margin-bottom: 0;
 	line-height: normal;
 }
