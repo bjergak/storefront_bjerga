@@ -2,14 +2,15 @@
 ------------------------------------
   The Plaza - eCommerce Template
   Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 
 /*----------------------------------------*/
 /* Template default CSS
 /*----------------------------------------*/
-
+/*header font= font-family: 'Permanent Marker', cursive; */
+/*body font= font-family: 'Josefin Sans', sans-serif; */
 html,
 body {
 	height: 100%;
