@@ -454,6 +454,10 @@ ul:hover{
 }
 
 .hs-item .hs-content .site-btn {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #C2C1C2;
 	top: 70px;
 	position: relative;
 	opacity: 0;
@@ -461,7 +465,6 @@ ul:hover{
 	-o-transition: all 0s;
 	transition: all 0s;
 }
-
 .owl-item.active .hs-item .hs-left {
 	padding-top: 130px;
 	opacity: 1;
@@ -859,7 +862,7 @@ ul:hover{
 .footer-top-section {
 	padding-top: 190px;
 	padding-bottom: 50px;
-	background: #282828;
+	background: #31393C;
 }
 
 .footer-top-section.home-footer {
@@ -871,30 +874,35 @@ ul:hover{
 }
 
 .footer-widget .fw-title {
+	font= font-family: 'Josefin Sans', sans-serif;
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #fff;
+	color: #C2C1C2;
 	margin-bottom: 57px;
 	letter-spacing: -0.2px;
 }
 
 .footer-widget ul {
+	font= font-family: 'Josefin Sans', sans-serif;
 	list-style: none;
 }
 
 .footer-widget ul li {
+	font= font-family: 'Josefin Sans', sans-serif;
 	font-size: 14px;
 	display: block;
 	margin-bottom: 10px;
-	color: #fff;
+	color: #C2C1C2;
 	opacity: 0.55;
 }
 
 .footer-widget ul li:last-child {
+	font= font-family: 'Josefin Sans', sans-serif;
 	margin-bottom: 0;
 }
 
 .footer-widget ul li a {
+	font= font-family: 'Josefin Sans', sans-serif;
 	color: #fff;
 }
 
@@ -911,6 +919,7 @@ ul:hover{
 }
 
 .about-widget p {
+	font= font-family: 'Josefin Sans', sans-serif;
 	margin-bottom: 40px;
 }
 
@@ -928,6 +937,7 @@ ul:hover{
 }
 
 .footer-section .copyright {
+	font= font-family: 'Josefin Sans', sans-serif;
 	color: #DE9E36;
 	margin-bottom: 0;
 	line-height: normal;
