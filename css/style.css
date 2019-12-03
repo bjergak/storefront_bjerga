@@ -104,11 +104,15 @@ ul:hover{
 	font-size: 40px;
 	text-transform: uppercase;
 	font-weight: 700;
+	color: #31393C;
 }
 
 .section-title p {
-	font-size: 18px;
+	font-size: 25px;
 	font-weight: 500;
+	text-transform: uppercase;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #C2C1C2;
 }
 
 .set-bg {
@@ -300,11 +304,13 @@ ul:hover{
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #fff;
+	color: #C2C1C2;
 	padding: 8px 5px 0;
 	margin-left: 50px;
 }
-
+.main-menu li a:hover{
+	color: #DE9E36;
+}
 .header-right {
 	float: right;
 }
@@ -581,7 +587,7 @@ ul:hover{
 	height: 7px;
 	background: #C2C1C2;
 	border-radius: .5px;
-
+	padding: 1em;
 }
 
 .intro-slider {
