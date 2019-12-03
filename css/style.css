@@ -433,7 +433,7 @@ ul:hover{
 .hs-item .hs-content h2 {
 	font-size: 110px;
 	text-transform: uppercase;
-	color: #fff;
+	color: red;
 	font-weight: 400;
 	line-height: 0.9;
 	margin-bottom: 35px;
