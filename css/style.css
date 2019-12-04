@@ -176,16 +176,15 @@ ul:hover{
 }
 
 .site-btn.btn-line {
-	background: transparent;
-	border: 2px solid #414141;
+	background: rgba(11,122,117,.5);
+/*	border: 2px solid #414141;*/
 	color: #414141;
 	padding: 12px 20px;
 }
 
 .site-btn.btn-line:hover {
-	background: #b09d81;
-	border: 2px solid #b09d81;
-	color: red;
+	/*border: 2px solid;*/
+	background: rgba(11,122,117,.25);
 }
 
 /* Preloder */
@@ -546,7 +545,7 @@ ul:hover{
 
 .intro-slider .intro-item .product-info p {
 	font-size: 24px;
-	color: #8d8d8d;
+	color: #C2C1C2;
 }
 
 .intro-slider .active .intro-item figure {
@@ -919,7 +918,6 @@ ul:hover{
 }
 
 .about-widget p {
-	font= font-family: 'Josefin Sans', sans-serif;
 	margin-bottom: 40px;
 }
 
